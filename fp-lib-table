@@ -1,0 +1,9 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "MBR1060") (type "KiCad") (uri "${KIPRJMOD}/lib/MBR1060.pretty") (options "") (descr "OpenSpool project footprints"))
+	(lib (name "GRM21BR71H104KA01L") (type "KiCad") (uri "${KIPRJMOD}/lib/GRM21BR71H104KA01L.pretty") (options "") (descr "OpenSpool project footprints"))
+	(lib (name "GRM31CR71E106MA12K") (type "KiCad") (uri "${KIPRJMOD}/lib/GRM31CR71E106MA12K.pretty") (options "") (descr "OpenSpool project footprints"))
+	(lib (name "EEUFC1V101") (type "KiCad") (uri "${KIPRJMOD}/lib/EEUFC1V101.pretty") (options "") (descr "OpenSpool project footprints"))
+	(lib (name "SS54FSH") (type "KiCad") (uri "${KIPRJMOD}/lib/SS54FSH.pretty") (options "") (descr "OpenSpool project footprints"))
+	(lib (name "OpenSpool") (type "KiCad") (uri "${KIPRJMOD}/lib/OpenSpool.pretty") (options "") (descr "OpenSpool custom footprints"))
+)
